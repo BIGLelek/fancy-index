@@ -1,3 +1,13 @@
-<svg height="1024" width="896" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896 1024">
-  <path d="M608 192l-96 96 224 224L512 736l96 96 288-320L608 192zM288 192L0 512l288 320 96-96L160 512l224-224L288 192z" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 896 1024" style="enable-background:new 0 0 896 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2E8CFF;}
+</style>
+<path class="st0" d="M592.1,207.9l-65,65c-8.3,8.3-8.3,21.8,0,30.2l193.8,193.8c8.3,8.3,8.3,21.8,0,30.2L527.1,720.9
+	c-8.3,8.3-8.3,21.8,0,30.2l65,65c8.6,8.6,22.8,8.3,30.9-0.8l260.1-289c7.3-8.1,7.3-20.4,0-28.5L623,208.7
+	C614.9,199.6,600.7,199.3,592.1,207.9z M273,208.7l-260.1,289c-7.3,8.1-7.3,20.4,0,28.5l260.1,289c8.2,9.1,22.3,9.5,30.9,0.8l65-65
+	c8.3-8.3,8.3-21.8,0-30.2L175.1,527.1c-8.3-8.3-8.3-21.8,0-30.2l193.8-193.8c8.3-8.3,8.3-21.8,0-30.2l-65-65
+	C295.3,199.3,281.1,199.6,273,208.7z"/>
 </svg>

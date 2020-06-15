@@ -1,3 +1,11 @@
-<svg height="1024" width="896" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896 1024">
-  <path fill="#34495e" d="M832 192c-32 0-336 0-352 0s-32-16-32-32 0 0 0-32-32-64-64-64-288 0-320 0-64 32-64 64 0 704 0 704h896s0-544 0-576-32-64-64-64z m-448 0h-320s0-15 0-32 16-32 32-32 241 0 256 0 32 15 32 32 0 32 0 32z" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 896 1024" style="enable-background:new 0 0 896 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2E8CFF;}
+</style>
+<path class="st0" d="M816,192H496c-26.4,0-48-21.6-48-48v0c0-44-36-80-80-80H80c-44,0-80,36-80,80v672c0,8.8,7.2,16,16,16h864
+	c8.8,0,16-7.2,16-16V272C896,228,860,192,816,192z M368,192H80c-8.8,0-16-7.2-16-16v-16c0-17,16-32,32-32s241,0,256,0s32,15,32,32
+	v16C384,184.8,376.8,192,368,192z"/>
 </svg>
